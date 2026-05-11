@@ -1,0 +1,9 @@
+Forensic Image Log
+Date: Mon May 11 02:27:36 AM EDT 2026
+Case: Insider Threat Investigation
+Device: /dev/sdb (8.2GB Memory Card)
+Image: memorycard.dd
+Block Size: 512
+Records: 16012288
+Speed: 10.5 MB/s
+Status: SUCCESS
