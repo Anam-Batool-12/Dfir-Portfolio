@@ -1,0 +1,17 @@
+## Prefetch Analysis
+
+### Tool Used
+- PECmd by Eric Zimmerman
+
+### Findings
+| Program | Run Count | Last Run |
+|---------|-----------|----------|
+| CMD.EXE | 1 | 2026-05-13 01:46 |
+| POWERSHELL.EXE | 6 | 2026-05-13 02:56 |
+| LECmd.EXE | 3 | 2026-05-13 02:35 |
+| PECmd.EXE | 2 | 2026-05-13 03:03 |
+
+### Conclusion
+Prefetch analysis reveals PowerShell was 
+executed 6 times — potential indicator of 
+suspicious scripting activity in real case.
