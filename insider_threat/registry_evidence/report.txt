@@ -1,0 +1,21 @@
+
+### Tool Used
+- LECmd by Eric Zimmerman
+
+### Process
+- Accessed Windows Recent folder via shell:recent
+- Parsed all LNK files using LECmd
+- Output saved as CSV for analysis
+
+### Findings
+- Total LNK entries found: 4
+- DriveType identified: Fixed
+- File access timestamps extracted successfully
+- No removable drive artifacts found on this machine
+
+### Conclusion
+LNK file analysis completed successfully.
+LECmd parsed recent file access history.
+No USB exfiltration artifacts found on 
+this particular machine. Fake suspect 
+disk will be analyzed in next session.
