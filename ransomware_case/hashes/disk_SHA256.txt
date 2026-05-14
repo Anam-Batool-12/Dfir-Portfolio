@@ -1,0 +1,1 @@
+3721422e52315756782d1ddad85e9f9857c0b7322fa16e063e3e8a1c70427788  /home/kali/dfir_cases/ransomware_case/evidence/ransomware_disk.img

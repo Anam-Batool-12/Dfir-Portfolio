@@ -1,0 +1,1 @@
+0e5c0017c0e9457e7087309528ef1c08  /home/kali/dfir_cases/ransomware_case/evidence/ransomware_disk.img
