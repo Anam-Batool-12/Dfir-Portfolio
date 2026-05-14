@@ -7,3 +7,8 @@ real_*
 *.img
 evidence/
 *.reg
+Projects/ForensicEvidence/Browser/Chrome_History
+Projects/ForensicEvidence/Browser/Edge_History
+Projects/ForensicEvidence/Prefetch/
+Projects/ForensicEvidence/SYSTEM.hiv
+*.hiv
